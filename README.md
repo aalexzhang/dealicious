@@ -1,5 +1,5 @@
 # Dealicious
-The final website can be viewed here: 
+The final website can be viewed here: [Website](https://dealicious-frontend.onrender.com/)
 
 # Our Mission
 Eating healthily on a budget is a big challenge for many students. Our project will address the lack of a centralized platform combining healthy recipes with local discounts and sales, to specifically target university students on a limited budget. We hope to close the gap between students' convenience, cost, and affordable healthy eating by developing a web-based application.
