@@ -1,0 +1,1128 @@
+{
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "price": 9.99,
+      "discount": {
+        "amount": 1.5,
+        "valid_from": "2025-03-10",
+        "valid_to": "2025-03-17"
+      },
+      "categories": [
+        "Meat",
+        "Protein"
+      ],
+      "tags": [
+        "Rich",
+        "Savory",
+        "Protein"
+      ],
+      "rating": 4.4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/lamb-chops.png"
+    },
+    {
+      "name": "Mango",
+      "price": 1.75,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Tropical",
+        "Sweet"
+      ],
+      "rating": 4.4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/mango.jpg"
+    },
+    {
+      "name": "Orange",
+      "price": 1.2,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Citrus",
+        "Vitamin C"
+      ],
+      "rating": 3.9,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/orange.png"
+    },
+    {
+      "name": "Milk",
+      "price": 3.99,
+      "categories": [
+        "Dairy",
+        "Protein"
+      ],
+      "tags": [
+        "Calcium",
+        "Protein"
+      ],
+      "rating": 4.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/milk.png"
+    },
+    {
+      "name": "Jalapeño",
+      "price": 0.99,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Spicy",
+        "Hot"
+      ],
+      "rating": 3.8,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/pickled-jalapenos.png"
+    },
+    {
+      "name": "Onion",
+      "price": 0.9,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Aromatic",
+        "Savory"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/brown-onion.png"
+    },
+    {
+      "name": "Parsnip",
+      "price": 1.4,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-02-25",
+        "valid_to": "2025-03-04"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Sweet",
+        "Root"
+      ],
+      "rating": 3.8,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/parsnip.jpg"
+    },
+    {
+      "name": "Tilapia",
+      "price": 6.5,
+      "discount": {
+        "amount": 1,
+        "valid_from": "2025-03-12",
+        "valid_to": "2025-03-19"
+      },
+      "categories": [
+        "Seafood",
+        "Protein"
+      ],
+      "tags": [
+        "Lean",
+        "Protein"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-tilapia.jpg"
+    },
+    {
+      "name": "Black Beans",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-02-28",
+        "valid_to": "2025-03-07"
+      },
+      "categories": [
+        "Pantry"
+      ],
+      "tags": [
+        "Legume",
+        "Fiber"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/black-beans.jpg"
+    },
+    {
+      "name": "Mushrooms",
+      "price": 3.5,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Savory",
+        "Umami"
+      ],
+      "rating": 4.3,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/mushrooms-white.jpg"
+    },
+    {
+      "name": "Rutabaga",
+      "price": 1.6,
+      "discount": {
+        "amount": 0.25,
+        "valid_from": "2025-02-26",
+        "valid_to": "2025-03-05"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Root",
+        "Sweet"
+      ],
+      "rating": 3.9,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/rutabaga.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "price": 1.6,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Squash",
+        "Versatile"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/zucchini.jpg"
+    },
+    {
+      "name": "Lentils",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-03-02",
+        "valid_to": "2025-03-09"
+      },
+      "categories": [
+        "Pantry",
+        "Protein"
+      ],
+      "tags": [
+        "Legume",
+        "Protein"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/lentils-brown.jpg"
+    },
+    {
+      "name": "Plum",
+      "price": 1.6,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Stone Fruit",
+        "Juicy"
+      ],
+      "rating": 3.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/plum.jpg"
+    },
+    {
+      "name": "Lime",
+      "price": 0.75,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Citrus",
+        "Sour"
+      ],
+      "rating": 3.7,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/lime.jpg"
+    },
+    {
+      "name": "Garbanzo Beans",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-02-27",
+        "valid_to": "2025-03-06"
+      },
+      "categories": [
+        "Pantry",
+        "Protein"
+      ],
+      "tags": [
+        "Legume",
+        "Protein"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chickpeas.png"
+    },
+    {
+      "name": "Blueberries",
+      "price": 3.99,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Berry",
+        "Antioxidants"
+      ],
+      "rating": 4.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/blueberries.jpg"
+    },
+    {
+      "name": "Banana",
+      "price": 0.5,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Sweet",
+        "Potassium"
+      ],
+      "rating": 4.6,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/bananas.jpg"
+    },
+    {
+      "name": "Bacon",
+      "price": 4.99,
+      "discount": {
+        "amount": 0.75,
+        "valid_from": "2025-03-14",
+        "valid_to": "2025-03-21"
+      },
+      "categories": [
+        "Meat",
+        "Protein"
+      ],
+      "tags": [
+        "Savory",
+        "Crispy",
+        "Protein"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/raw-bacon.png"
+    },
+    {
+      "name": "Eggplant",
+      "price": 2.1,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Purple",
+        "Versatile"
+      ],
+      "rating": 3.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/eggplant.png"
+    },
+    {
+      "name": "Cabbage",
+      "price": 1.5,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Leafy",
+        "Crunchy"
+      ],
+      "rating": 3.9,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/cabbage.jpg"
+    },
+    {
+      "name": "Spinach",
+      "price": 2.99,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Leafy",
+        "Iron"
+      ],
+      "rating": 4.4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/spinach.jpg"
+    },
+    {
+      "name": "Watermelon",
+      "price": 5.99,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Hydrating",
+        "Sweet"
+      ],
+      "rating": 4.6,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/watermelon.png"
+    },
+    {
+      "name": "Butter",
+      "price": 4.99,
+      "discount": {
+        "amount": 0.5,
+        "valid_from": "2025-02-01",
+        "valid_to": "2025-02-07"
+      },
+      "categories": [
+        "Dairy"
+      ],
+      "tags": [
+        "Fat",
+        "Cooking"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/butter.jpg"
+    },
+    {
+      "name": "Carrot",
+      "price": 1,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Crunchy",
+        "Vitamin A"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/sliced-carrot.png"
+    },
+    {
+      "name": "Bell Pepper",
+      "price": 1.75,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Crunchy",
+        "Vitamin C"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/bell-pepper-orange.png"
+    },
+    {
+      "name": "Raspberries",
+      "price": 4.99,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Berry",
+        "Fiber"
+      ],
+      "rating": 3.8,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/raspberries.jpg"
+    },
+    {
+      "name": "Kale",
+      "price": 2.75,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Leafy",
+        "Superfood"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/kale.jpg"
+    },
+    {
+      "name": "Turnip",
+      "price": 1.3,
+      "discount": {
+        "amount": 0.15,
+        "valid_from": "2025-02-24",
+        "valid_to": "2025-03-03"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Root",
+        "Crunchy"
+      ],
+      "rating": 3.6,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/turnips.png"
+    },
+    {
+      "name": "Pumpkin",
+      "price": 3.99,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Squash",
+        "Seasonal"
+      ],
+      "rating": 3.7,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/pumpkin.jpg"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.99,
+      "discount": {
+        "amount": 0.3,
+        "valid_from": "2025-02-02",
+        "valid_to": "2025-02-09"
+      },
+      "categories": [
+        "Protein",
+        "Dairy"
+      ],
+      "tags": [
+        "Protein",
+        "Versatile"
+      ],
+      "rating": 4.4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chocolate-easter-eggs.jpg"
+    },
+    {
+      "name": "Pork Chops",
+      "price": 6.99,
+      "discount": {
+        "amount": 1.2,
+        "valid_from": "2025-03-06",
+        "valid_to": "2025-03-13"
+      },
+      "categories": [
+        "Meat",
+        "Protein"
+      ],
+      "tags": [
+        "Savory",
+        "Protein"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/pork-chops.jpg"
+    },
+    {
+      "name": "Chicken Breast",
+      "price": 7.99,
+      "discount": {
+        "amount": 1,
+        "valid_from": "2025-02-01",
+        "valid_to": "2025-02-08"
+      },
+      "categories": [
+        "Meat",
+        "Protein"
+      ],
+      "tags": [
+        "Protein",
+        "Lean"
+      ],
+      "rating": 4.3,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/chicken-breast.jpg"
+    },
+    {
+      "name": "Pear",
+      "price": 1.4,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Sweet",
+        "Juicy"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/pears-bosc.jpg"
+    },
+    {
+      "name": "Cantaloupe",
+      "price": 3.99,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Melon",
+        "Hydrating"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/cantaloupe.png"
+    },
+    {
+      "name": "Asparagus",
+      "price": 3.5,
+      "discount": {
+        "amount": 0.5,
+        "valid_from": "2025-02-20",
+        "valid_to": "2025-02-27"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Green",
+        "Crunchy"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/asparagus.png"
+    },
+    {
+      "name": "Cucumber",
+      "price": 1.1,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Hydrating",
+        "Cool"
+      ],
+      "rating": 4.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/cucumber.jpg"
+    },
+    {
+      "name": "Shrimp",
+      "price": 12.99,
+      "discount": {
+        "amount": 2,
+        "valid_from": "2025-03-11",
+        "valid_to": "2025-03-18"
+      },
+      "categories": [
+        "Seafood",
+        "Protein"
+      ],
+      "tags": [
+        "Protein",
+        "Low-Fat"
+      ],
+      "rating": 4.6,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/shrimp.png"
+    },
+    {
+      "name": "Green Beans",
+      "price": 2,
+      "discount": {
+        "amount": 0.25,
+        "valid_from": "2025-02-19",
+        "valid_to": "2025-02-26"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Crunchy",
+        "Fiber"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/green-beans-or-string-beans.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "price": 5.99,
+      "discount": {
+        "amount": 1.5,
+        "valid_from": "2025-02-04",
+        "valid_to": "2025-02-11"
+      },
+      "categories": [
+        "Pantry"
+      ],
+      "tags": [
+        "Healthy Fats",
+        "Cooking"
+      ],
+      "rating": 4.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/olive-oil.jpg"
+    },
+    {
+      "name": "Beetroot",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-02-23",
+        "valid_to": "2025-03-02"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Earthy",
+        "Nutritious"
+      ],
+      "rating": 3.7,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/beets.jpg"
+    },
+    {
+      "name": "Kidney Beans",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-03-01",
+        "valid_to": "2025-03-08"
+      },
+      "categories": [
+        "Pantry",
+        "Protein"
+      ],
+      "tags": [
+        "Legume",
+        "Protein"
+      ],
+      "rating": 3.8,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/kidney-beans.jpg"
+    },
+    {
+      "name": "Apple",
+      "price": 1.5,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Sweet",
+        "Healthy"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/apple.jpg"
+    },
+    {
+      "name": "Turkey Breast",
+      "price": 7.5,
+      "discount": {
+        "amount": 1.5,
+        "valid_from": "2025-03-07",
+        "valid_to": "2025-03-14"
+      },
+      "categories": [
+        "Meat",
+        "Protein"
+      ],
+      "tags": [
+        "Lean",
+        "Protein"
+      ],
+      "rating": 4.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/turkey-breast.jpg"
+    },
+    {
+      "name": "Radish",
+      "price": 1,
+      "discount": {
+        "amount": 0.1,
+        "valid_from": "2025-02-22",
+        "valid_to": "2025-03-01"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Spicy",
+        "Crunchy"
+      ],
+      "rating": 3.9,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/radishes.jpg"
+    },
+    {
+      "name": "Ground Beef",
+      "price": 5.99,
+      "discount": {
+        "amount": 1,
+        "valid_from": "2025-03-05",
+        "valid_to": "2025-03-12"
+      },
+      "categories": [
+        "Meat",
+        "Protein"
+      ],
+      "tags": [
+        "Protein",
+        "Rich"
+      ],
+      "rating": 4.3,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/fresh-ground-beef.jpg"
+    },
+    {
+      "name": "Peanut Butter",
+      "price": 3.99,
+      "discount": {
+        "amount": 0.5,
+        "valid_from": "2025-02-07",
+        "valid_to": "2025-02-14"
+      },
+      "categories": [
+        "Pantry",
+        "Protein"
+      ],
+      "tags": [
+        "Protein",
+        "Nut Butter"
+      ],
+      "rating": 4.6,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/peanut-butter.png"
+    },
+    {
+      "name": "Grapes",
+      "price": 3.99,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Sweet",
+        "Antioxidants"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/red-grapes.jpg"
+    },
+    {
+      "name": "Honey",
+      "price": 4.79,
+      "discount": {
+        "amount": 0.75,
+        "valid_from": "2025-02-06",
+        "valid_to": "2025-02-13"
+      },
+      "categories": [
+        "Pantry"
+      ],
+      "tags": [
+        "Sweetener",
+        "Natural"
+      ],
+      "rating": 4.4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/honey.png"
+    },
+    {
+      "name": "Lemon",
+      "price": 0.8,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Citrus",
+        "Sour"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/lemon.jpg"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "price": 3,
+      "discount": {
+        "amount": 0.4,
+        "valid_from": "2025-02-21",
+        "valid_to": "2025-02-28"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Cruciferous",
+        "Bitter"
+      ],
+      "rating": 3.5,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/brussels-sprouts.jpg"
+    },
+    {
+      "name": "Celery",
+      "price": 1.5,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Crunchy",
+        "Hydrating"
+      ],
+      "rating": 3.9,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/celery.jpg"
+    },
+    {
+      "name": "Tomato",
+      "price": 1.25,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Juicy",
+        "Salads"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/tomato.png"
+    },
+    {
+      "name": "Tofu",
+      "price": 2.99,
+      "discount": {
+        "amount": 0.5,
+        "valid_from": "2025-03-08",
+        "valid_to": "2025-03-15"
+      },
+      "categories": [
+        "Plant-Based",
+        "Protein"
+      ],
+      "tags": [
+        "Soy",
+        "Protein"
+      ],
+      "rating": 4.3,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/tofu.png"
+    },
+    {
+      "name": "Brown Rice",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-03-04",
+        "valid_to": "2025-03-11"
+      },
+      "categories": [
+        "Pantry"
+      ],
+      "tags": [
+        "Whole Grain",
+        "Fiber"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/uncooked-brown-rice.png"
+    },
+    {
+      "name": "Yogurt",
+      "price": 2.5,
+      "discount": {
+        "amount": 0.4,
+        "valid_from": "2025-02-15",
+        "valid_to": "2025-02-22"
+      },
+      "categories": [
+        "Dairy",
+        "Protein"
+      ],
+      "tags": [
+        "Probiotic",
+        "Calcium"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/plain-yogurt.jpg"
+    },
+    {
+      "name": "Avocado",
+      "price": 2,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Healthy Fats",
+        "Creamy"
+      ],
+      "rating": 4.8,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/avocado.jpg"
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.99,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Tropical",
+        "Sweet"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/pineapple.jpg"
+    },
+    {
+      "name": "Potato",
+      "price": 1.2,
+      "discount": {
+        "amount": 0.15,
+        "valid_from": "2025-02-17",
+        "valid_to": "2025-02-24"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Starchy",
+        "Versatile"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/potatoes-yukon-gold.png"
+    },
+    {
+      "name": "Broccoli",
+      "price": 2.5,
+      "discount": {
+        "amount": 0.3,
+        "valid_from": "2025-02-15",
+        "valid_to": "2025-02-22"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Crunchy",
+        "Fiber"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/broccoli.jpg"
+    },
+    {
+      "name": "Cauliflower",
+      "price": 2.75,
+      "discount": {
+        "amount": 0.35,
+        "valid_from": "2025-02-16",
+        "valid_to": "2025-02-23"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Cruciferous",
+        "Low-Carb"
+      ],
+      "rating": 3.7,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/cauliflower.jpg"
+    },
+    {
+      "name": "Garlic",
+      "price": 1.2,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Aromatic",
+        "Healthy"
+      ],
+      "rating": 4.3,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/garlic.png"
+    },
+    {
+      "name": "Lettuce",
+      "price": 1.8,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Leafy",
+        "Salads"
+      ],
+      "rating": 3.7,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/iceberg-lettuce.jpg"
+    },
+    {
+      "name": "Tempeh",
+      "price": 3.5,
+      "discount": {
+        "amount": 0.6,
+        "valid_from": "2025-03-09",
+        "valid_to": "2025-03-16"
+      },
+      "categories": [
+        "Plant-Based"
+      ],
+      "tags": [
+        "Soy",
+        "Fermented"
+      ],
+      "rating": 3.9,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/tempeh.jpg"
+    },
+    {
+      "name": "Salmon",
+      "price": 9.99,
+      "discount": {
+        "amount": 1,
+        "valid_from": "2025-02-01",
+        "valid_to": "2025-02-07"
+      },
+      "categories": [
+        "Seafood",
+        "Protein"
+      ],
+      "tags": [
+        "Omega-3",
+        "Protein"
+      ],
+      "rating": 4.7,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/salmon.png"
+    },
+    {
+      "name": "Sweet Corn",
+      "price": 1.5,
+      "discount": {
+        "amount": 0.2,
+        "valid_from": "2025-02-18",
+        "valid_to": "2025-02-25"
+      },
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Sweet",
+        "Starchy"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/corn.png"
+    },
+    {
+      "name": "Peach",
+      "price": 1.8,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Stone Fruit",
+        "Juicy"
+      ],
+      "rating": 4,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/peach.png"
+    },
+    {
+      "name": "Quinoa",
+      "price": 2.5,
+      "discount": {
+        "amount": 0.3,
+        "valid_from": "2025-03-03",
+        "valid_to": "2025-03-10"
+      },
+      "categories": [
+        "Pantry",
+        "Protein"
+      ],
+      "tags": [
+        "Grain",
+        "Protein"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/uncooked-quinoa.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "price": 1.4,
+      "categories": [
+        "Vegetable"
+      ],
+      "tags": [
+        "Sweet",
+        "Fiber"
+      ],
+      "rating": 4.2,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/sweet-potato.png"
+    },
+    {
+      "name": "Tuna",
+      "price": 8.99,
+      "discount": {
+        "amount": 1.5,
+        "valid_from": "2025-03-13",
+        "valid_to": "2025-03-20"
+      },
+      "categories": [
+        "Seafood",
+        "Protein"
+      ],
+      "tags": [
+        "Omega-3",
+        "Protein"
+      ],
+      "rating": 4.1,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/canned-tuna.png"
+    },
+    {
+      "name": "Strawberries",
+      "price": 4.5,
+      "categories": [
+        "Fruit"
+      ],
+      "tags": [
+        "Sweet",
+        "Berry"
+      ],
+      "rating": 4.3,
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/strawberries.png"
+    }
+  ]
+}

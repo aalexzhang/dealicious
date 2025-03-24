@@ -1,0 +1,175 @@
+.navbar {
+  padding: 16px 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.logo {
+  width: 192px;
+  height: 72px;
+}
+
+.navMenu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.categories {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  margin: 0 auto;
+}
+
+.navLink {
+  color: #2A292B;
+  text-align: left;
+  font-family: 'NunitoSans-Medium', sans-serif;
+  font-size: 21px;
+  line-height: 106.33%;
+  letter-spacing: 0.2px;
+  font-weight: 500;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.navLink:hover {
+  color: #249552;
+}
+
+.navLink::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -4px;
+  left: 0;
+  background-color: #249552;
+  transition: width 0.3s ease;
+}
+
+.navLink:hover::after {
+  width: 100%;
+}
+
+.shoppingListBtn {
+  border-radius: 75.53px;
+  border: 1.26px solid #249552;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 24.49px;
+  align-items: center;
+  justify-content: center;
+  width: 192px;
+  background: transparent;
+  cursor: pointer;
+  color: #249552;
+  text-align: center;
+  font-family: 'NunitoSans-Medium', sans-serif;
+  font-size: 16px;
+  line-height: 111%;
+  letter-spacing: 0.27px;
+  font-weight: 500;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.shoppingListBtn:hover {
+  background-color: #249552;
+  color: white;
+}
+
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 10;
+}
+
+.hamburgerLine {
+  width: 100%;
+  height: 2px;
+  background-color: #2A292B;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 1024px) {
+  .navbar {
+    padding: 16px 24px;
+  }
+  
+  .hamburger {
+    display: flex;
+  }
+  
+  .navMenu {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 280px;
+    height: 100vh;
+    background-color: white;
+    flex-direction: column;
+    padding: 100px 24px 24px;
+    transition: right 0.3s ease;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    z-index: 9;
+    justify-content: flex-start;
+    gap: 32px;
+  }
+  
+  .navMenu.active {
+    right: 0;
+  }
+  
+  .categories {
+    flex-direction: column;
+    width: 100%;
+    gap: 32px;
+    align-items: flex-start;
+    margin: 0;
+  }
+  
+  .shoppingListBtn {
+    width: 100%;
+    margin-top: 32px;
+  }
+  
+  .hamburger.active .hamburgerLine:nth-child(1) {
+    transform: translateY(9px) rotate(45deg);
+  }
+  
+  .hamburger.active .hamburgerLine:nth-child(2) {
+    opacity: 0;
+  }
+  
+  .hamburger.active .hamburgerLine:nth-child(3) {
+    transform: translateY(-9px) rotate(-45deg);
+  }
+}
+
+@media (max-width: 767px) {
+  .logo {
+    width: 150px;
+    height: 56px;
+  }
+  
+  .navLink {
+    font-size: 18px;
+  }
+}

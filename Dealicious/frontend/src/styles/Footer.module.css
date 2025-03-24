@@ -1,0 +1,186 @@
+.footer {
+  width: 100%;
+  background: #2A292B;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+  position: relative;
+  clear: both;
+}
+
+.footerContainer {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 80px;
+  padding: 40px 40px;
+  flex-wrap: wrap;
+}
+
+.footerLeft {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  width: 298px;
+}
+
+.logo {
+  width: 192px;
+  height: 72px;
+}
+
+.socialMediaIcons {
+  display: flex;
+  gap: 24px;
+}
+
+.socialMediaIcons img {
+  width: 50px;
+  height: 50px;
+}
+
+.footerCenter {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.quickLinks {
+  color: #ffffff;
+  font-family: 'NunitoSans-Bold', sans-serif;
+  font-size: 21px;
+  line-height: 103.33%;
+  letter-spacing: 0.11px;
+  font-weight: 700;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.footerLink {
+  color: #BCBBBE;
+  text-decoration: none;
+  font-family: 'NunitoSans-Regular', sans-serif;
+  font-size: 16px;
+  line-height: 106.33%;
+  letter-spacing: 0.2px;
+  display: inline-block;
+  margin: 0;
+  margin-bottom: 24px;
+  padding: 2px 10px; 
+}
+
+.footerRight {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 340px;
+}
+
+.contactText {
+  color: #ffffff;
+  font-family: 'NunitoSans-Bold', sans-serif;
+  font-size: 21px;
+  line-height: 103.33%;
+  letter-spacing: 0.11px;
+  font-weight: 700;
+}
+
+.contactForm {
+  display: flex;
+  gap: 12px;
+}
+
+.emailInput {
+  border: 0.88px solid #BCBBBE;
+  padding: 9px 13px;
+  background: transparent;
+  color: #DCDCDC;
+  width: 252.25px;
+  height: 47.46px;
+  font-family: 'NunitoSans-Regular', sans-serif;
+  font-size: 16px;
+  line-height: 112.33%;
+  letter-spacing: 0.2px;
+}
+
+.contactButton {
+  background: #ffffff;
+  border-radius: 4.39px;
+  width: 126.57px;
+  height: 49.22px;
+  border: none;
+  cursor: pointer;
+  color: #2A292B;
+  font-family: 'NunitoSans-Regular', sans-serif;
+  font-size: 16px;
+  line-height: 111%;
+  letter-spacing: 0.27px;
+}
+
+@media (max-width: 768px) {
+  .footerContainer {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 20px 20px;
+  }
+
+  .footerLeft, .footerCenter, .footerRight {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footerLeft {
+    gap: 30px;
+  }
+
+  .footerCenter {
+    gap: 20px;
+  }
+
+  .footerRight {
+    gap: 20px;
+  }
+
+  .emailInput {
+    width: 100%;
+  }
+
+  .contactButton {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .footerContainer {
+    padding: 10px 10px;
+  }
+
+  .footerLeft {
+    gap: 20px;
+  }
+
+  .footerCenter {
+    gap: 15px;
+  }
+
+  .footerRight {
+    gap: 15px;
+  }
+
+  .quickLinks, .contactText {
+    font-size: 18px;
+  }
+
+  .footerLink, .emailInput, .contactButton {
+    font-size: 14px;
+  }
+}
